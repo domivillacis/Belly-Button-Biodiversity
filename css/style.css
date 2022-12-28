@@ -2,10 +2,15 @@ body {
     background-color: #ecf0f6;
     color: #282952
   }
+h1 {
+    background: #657fa7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 p {
-    background-color: #8392d8;
-    color: #d8c42b; 
+  background: #657fa7;
+    color: #d6e4ea;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 .jumbotron {
     background-image: url("../images/bacteria.jpeg");
