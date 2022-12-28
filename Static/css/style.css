@@ -1,6 +1,6 @@
 body {
     background-color: #ecf0f6;
-    color: #732061
+    color: #282952
   }
 h1 {
     color: #ecf0f6;
@@ -8,7 +8,7 @@ h1 {
 
 p {
     background-color: #8392d8;
-    color: #b2e205; 
+    color: #d8c42b; 
 }
 .jumbotron {
     background-image: url("../images/bacteria.jpeg");
